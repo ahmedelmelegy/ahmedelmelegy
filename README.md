@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elmelegy</h1>
 <h3 align="center">A passionate DevOps engineer from Egypt</h3>
 
-- 💬 Ask me about **Git, Docker, Kubernetes, AWS, CircleCi and terraform**
+- 💬 Ask me about **Git, Docker, Kubernetes, AWS, CircleCi, Linux and terraform**
 
 - 📫 How to reach me **ahmedelmelegy3570@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
