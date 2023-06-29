@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elmelegy</h1>
-<h3 align="center">A passionate DevOps engineer from Egypt</h3>
+<h3 align="center">A passionate DevOps engineer</h3>
 
 - 💬 Ask me about **Git, Docker, Kubernetes, AWS, CircleCi, Linux and terraform**
 
