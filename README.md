@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elmelegy</h1>
 <h3 align="center">A passionate DevOps engineer</h3>
 
-- 💬 Ask me about **Git, Docker, Kubernetes, AWS, CircleCi, Linux and terraform**
+- 💬 Ask me about **Docker, Kubernetes,terraform, AWS,Linux and Git**
 
 - 📫 How to reach me **ahmedelmelegy3570@gmail.com**
 
